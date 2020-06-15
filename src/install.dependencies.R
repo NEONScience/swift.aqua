@@ -1,0 +1,13 @@
+# Install Packages for intialization
+install.packages(shiny)
+install.packages(plotly)
+install.packages(dplyr)
+install.packages(ggplot2)
+install.packages(DT)
+install.packages(tidyr)
+install.packages(data.table)
+install.packages(shinycssloaders)
+install.packages(shinydashboard)
+install.packages(viridis)
+install.packages(stringr)
+install.packages(fst)
